@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @shabunin
-- 👀 I’m interested in living
-- 🌱 I’m currently learning math, balalaika, french language, microservices
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 👀 I’m interested in 
+- 🌱 programming, math, balalaika, french language, /etc/..
+- 💞️ I’m looking to collaborate on .. what's up to me
+- 📫
+
+
 
 <!---
 shabunin/shabunin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
