@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shabunin
 - 👀 I’m interested in 
 - 🌱 programming, math, balalaika, french language, /etc/..
-- 💞️ I’m looking to collaborate on .. where I will be useful
+- 💞️ I’m looking to collaborate on exciting projects..
 - 📫
 
 
