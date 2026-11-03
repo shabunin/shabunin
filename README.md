@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shabunin
 - 👀 I’m interested in 
-- 🌱 programming, math, music, languages, /etc/..
+- 🌱 might and magic
 - 📫
 
 
